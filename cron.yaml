@@ -1,0 +1,4 @@
+cron:
+- description: MiniVoIP.com Daily Parser
+  url: /tasks/cron/daily/parser
+  schedule: every 24 hours
